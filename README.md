@@ -16,7 +16,8 @@ Just having fun with phaser and websockets.
 ## Trams - Author [production]
 Probably one of first in Poland applications that show trams locations in real time.
 
-[[Production]](https://github.com/ipepe/android-warsaw-tram-map)
+[[Production]](https://play.google.com/store/apps/details?id=pl.ipepe.android.real_trams_map)
+[[Github]](https://github.com/ipepe/android-warsaw-tram-map)
 
 ![Image](images/trams.png)
 
