@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Foosball - Author [production]
+In our company there was always a doubt who is the best in Foosball. So I created this ranking website to reveal the best players!
 
-You can use the [editor on GitHub](https://github.com/ipepe/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[[Demo]](http://demo-foos.ipepe.pl/)
+[[Github]](https://github.com/ipepe/foosball-open-ranking)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](images/foosball.png)
 
-### Markdown
+## MMORPG in browser - Author [prototype]
+Just having fun with phaser and websockets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[Github]](https://github.com/ipepe/sinatra-phaser-mmo)
 
-```markdown
-Syntax highlighted code block
+![Image](images/mmorpg.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Trams - Author [production]
+Probably one of first in Poland applications that show trams locations in real time.
 
-- Bulleted
-- List
+[[Production]](https://github.com/ipepe/android-warsaw-tram-map)
 
-1. Numbered
-2. List
+![Image](images/trams.png)
 
-**Bold** and _Italic_ and `Code` text
+## Alphatrix - Author [production]
+Alphatrix is addictive mind puzzling game.
 
-[Link](url) and ![Image](src)
-```
+[[Production]](https://play.google.com/store/apps/details?id=pl.ipepe.android.alphatrix)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](images/alphatrix.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ipepe/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Portfolio Template - Refactor Author
+I made this template for my friend. Gulp made it unusable for GitHub pages with ease so I refactored it into Jekyll and now everything is configurable.
 
-### Support or Contact
+[[Github]](https://github.com/ipepe/portfolio-template)
+[[Demo]](https://ipepe.github.io/portfolio-template/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](images/portfolio-template.png)
